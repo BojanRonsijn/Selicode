@@ -1,2 +1,2 @@
 # Selicode
-code voor het project GGO en Opkomende technologieën. 
+code voor het project GGO (Selico) en Opkomende technologieën. 
